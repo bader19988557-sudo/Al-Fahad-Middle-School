@@ -1,0 +1,29 @@
+body {
+    background: #101010;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding: 40px;
+}
+
+.box {
+    background: #202020;
+    padding: 25px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+button {
+    background: #00c878;
+    color: black;
+    border: none;
+    padding: 13px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#result {
+    text-align: right;
+    line-height: 2;
+}
